@@ -1,5 +1,5 @@
 # Prerequisites
-To install the Python packages type the following command:
+To install the Python packages type the following command: <br>
       pip install pandas numpy nltk scikit-learn matplotlib seaborn
 ---
 # The following Python packages are required:
