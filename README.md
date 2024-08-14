@@ -1,6 +1,8 @@
 # Hate-Speech_Detection
+Hate Speech Detection using Machine Learning
 
-![Hate Speech Detection using Machine Learning](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprojectgurukul.org%2Fhate-speech-detection-using-machine-learning%2F&psig=AOvVaw2KPjWRNUMm9Sz1_S5naQAZ&ust=1723754621981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCewcSs9YcDFQAAAAAdAAAAABAE)
+![hatespeech](https://github.com/user-attachments/assets/90f3af67-2d86-4056-b8c4-826ba64da516)
+
 
 ---
 This project focuses on detecting hate speech in text using a machine learning model. The notebook provides a step-by-step approach to building and evaluating a hate speech detection model using various natural language processing (NLP) techniques.
